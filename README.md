@@ -15,11 +15,6 @@ This project showcases both:
 
 ---
 
-# Architecture
-
-![Project Architecture](architecture.png)
-
----
 
 # High-Level Architecture
 
@@ -518,5 +513,6 @@ By completing this project, you will learn:
 - How Databricks processes streaming data at scale
 - How Slowly Changing Dimensions preserve historical data
 - How STAR schema enables analytics and reporting
+
 
 
